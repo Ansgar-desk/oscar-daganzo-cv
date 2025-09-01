@@ -1,29 +1,29 @@
 # Oscar Daganzo – CV
 
-👋 Hi! I’m **Oscar Daganzo**, a Project Manager and Full Stack Developer based in Maresme – Barcelona.  
-I combine experience in **project management** (Fira Barcelona) with strong **technical skills** in software development, CNC design, and digital product creation.  
+👋 Hola, soy **Oscar Daganzo**, Project Manager y Full Stack Developer ubicado en el Maresme – Barcelona.  
+Combino experiencia en **gestión de proyectos** (Fira Barcelona) con sólidos conocimientos técnicos en **desarrollo de software, diseño CNC y creación de productos digitales**.  
 
-Currently, I’m the **Founder & Full Stack Developer** of *Españoles por Europa (EPE)*, an application that connects the Spanish community across Europe.  
-
----
-
-## 🌍 Languages
-- Español (Native)  
-- Català (Native)  
-- English (Professional)  
+Actualmente soy **Fundador & Full Stack Developer** de *Españoles por Europa (EPE)*, una aplicación que conecta a la comunidad española en Europa.  
 
 ---
 
-## 📄 Download my CV
-➡️ [**Click here to download my CV (PDF)**](https://github.com/Ansgar-desk/oscar-daganzo-cv/raw/main/Oscar_Daganzo_CV_20250831_161217_0000-1.pdf)
+## 🌍 Idiomas
+- Español (Nativo)  
+- Catalán (Nativo)  
+- Inglés (Profesional)  
 
 ---
 
-## 📫 Contact
+## 📄 Descargar mi CV
+➡️ [**Haz clic aquí para descargar mi CV (PDF)**](https://github.com/Ansgar-desk/oscar-daganzo-cv/raw/main/Oscar_Daganzo_CV_20250831_161217_0000-1.pdf)
+
+---
+
+## 📫 Contacto
 - 📧 oscar.daganzo@gmail.com  
 - 📱 +34 644 85 98 37  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tu-usuario) *(añade tu URL real de LinkedIn)*  
+- 🌐 [LinkedIn] https://www.linkedin.com/in/oscar-daganzo-ruiz-4aa449335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
-✨ *I’m looking for new opportunities in Project Management, Software Development, and Innovation in the Barcelona & Maresme area.* 
+✨ *Busco nuevas oportunidades en gestión de proyectos, desarrollo de software e innovación en la zona de Barcelona y Maresme.*
